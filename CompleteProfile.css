@@ -1,0 +1,40 @@
+.completeProfile{
+    background-color: whitesmoke;
+    height: 250px;
+    display: flex;
+}
+.quote{
+
+}
+.profile{
+    margin-left: 540px;
+   background-color: aquamarine;
+    width: auto;
+    height: 60px;
+    border-radius: 18px;
+    margin-top: 5px;
+    padding: 4px 4px;
+}
+.form{
+    background-color: whitesmoke;
+    height: 453px;
+   
+   
+}
+.formComponant{
+     padding: 10px 10px;
+     margin-left: 15px;
+  
+    display: flex;
+    justify-content:center;
+}
+.formComponant input{
+    border-radius: 18px;
+    padding: 4px 4px;
+    font-weight: bold;
+    font-style: italic;
+}
+.btn{
+    border-radius: 18px;
+    
+}
